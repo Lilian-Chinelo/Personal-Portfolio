@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-This is a code repository for my Personal Porfolio website. It offers insight on my profile and skillsets at a glance.
+This is a code repository for my Personal Portfolio website. It offers insight into my profile and skillsets at a glance.
 
 This is always an ongoing project as I continue to update my skills and project history.
 
