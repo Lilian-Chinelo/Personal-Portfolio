@@ -24,7 +24,7 @@ export const projects = [
     description:
       "This To-do list app project was created to allow users to make different lists (school, home, work, etc) without having to lift a finger.",
     image: "/images/3.jpg",
-    tags: ["JavaScript", "HTML", "CSS", "Node.js", "MongoDB", "Express"],
+    tags: ["JavaScript", "HTML", "CSS", "Node.js", "MongoDB", "Express.js"],
     source: "https://github.com/Lilian-Chinelo/To-Do-List-web-app",
     visit: "https://tinyurl.com/3mrsr6xm",
     id: 2,
