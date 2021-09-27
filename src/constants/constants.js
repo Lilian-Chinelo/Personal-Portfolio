@@ -24,7 +24,7 @@ export const projects = [
     description:
       "This To-do list app project was created to allow users to make different lists (school, home, work, etc) without having to lift a finger.",
     image: "/images/3.jpg",
-    tags: ["JavaScript", "HTML", "CSS", "Node", "MongoDB", "Express"],
+    tags: ["JavaScript", "HTML", "CSS", "Node.js", "MongoDB", "Express"],
     source: "https://github.com/Lilian-Chinelo/To-Do-List-web-app",
     visit: "https://tinyurl.com/3mrsr6xm",
     id: 2,
@@ -44,6 +44,8 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: "Started my journey" },
   { year: 2020, text: "Worked as a freelance developer" },
-  { year: 2021, text: "Continuing to work as a freelancer and contributing to open source projects.",
-  }
+  {
+    year: 2021,
+    text: "Continuing to work as a freelancer and contributing to open source projects.",
+  },
 ];
