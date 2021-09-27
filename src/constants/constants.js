@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.jpg",
     tags: ["React", "Next.js", "PWA", "Node"],
     source: "https://github.com/Lilian-Chinelo/Personal-Portfolio",
-    visit: "https://github.com/Lilian-Chinelo/Personal-Portfolio",
+    visit: "https://lilian-chinelo.vercel.app/",
     id: 0,
   },
   {
