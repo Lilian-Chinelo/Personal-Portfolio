@@ -6,6 +6,8 @@ This is always an ongoing project as I continue to update my skills and project 
 
 So far, the stack used includes: React, Next.js.
 
+Live Project is hosted here: https://lilian-chinelo.vercel.app/
+
 
 ![portfoliosnip](https://user-images.githubusercontent.com/73794416/134775122-c1ff5fb0-ed9f-4595-a34a-35b5e0d89d9f.PNG)
 
